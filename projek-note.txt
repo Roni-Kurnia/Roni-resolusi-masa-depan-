@@ -1,12 +1,1 @@
-# web komponen
-> header yang akan berperan sebagai navbar
-> sidebar tetap dengan garis dan icon penunjuk
-> tab kontent yang akan menyesuaikan tab yang dipilih pada sidebar
-> footer tempat dimana kredit akan ditambahkan
 
-# kontent yang akan dimuat
-> sejarah dasar mengenai pemrograman
-> HTML dasar 
-> CSS dasar
-> java script-(dasar, oop, DOM, MERN-[Mongodb, express, react, node])
-> PHP-(dasar, oop, MVC, Laravel)
